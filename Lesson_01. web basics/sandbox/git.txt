@@ -1,10 +1,6 @@
-Redactor
-https://code.visualstudio.com/
-https://atom.io/
-https://www.jetbrains.com/phpstorm/
-
-VSC Plugins
-https://gist.github.com/gitspawn/b4444535274daa928dede7003dace1ea
+Git - version system conrol
+GitHub
+Bitbucket
 
 Git Commands
 
@@ -19,3 +15,8 @@ Git Commands
 7. git push origin <branch name>
 8. git pull
 9. git pull origin 01-html
+
+
+
+https://agladky.ru/blog/git-cheat-sheet/
+https://githowto.com/ru
