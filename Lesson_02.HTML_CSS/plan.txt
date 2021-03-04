@@ -1,0 +1,36 @@
+https://developer.mozilla.org/ru/docs/Web/HTML
+HTML 
+  - теги (открывающиеся, закрывающиеся)
+  - заголовки
+  - параграфы
+  - ссылки
+  - атрибуты тегов
+  - списки
+    - ненумерованные
+    - нумерованные 
+  - таблицы
+  - формы
+  - кнопки
+  - изображения
+  - цитаты
+  - HTML 5 semantic 
+    (   
+      https://www.freecodecamp.org/news/semantic-html5-elements
+      https://www.w3schools.com/html/html5_semantic_elements.asp
+    )
+  - метатеги
+
+
+https://developer.mozilla.org/ru/docs/Web/CSS/Reference
+CSS 
+  - подключение стилей
+  - селекторы ( 
+    https://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048 
+    )
+  - вес (приоритет) селетора ( https://wp-kama.ru/id_5875/30-css-selektorov.html )
+  - цвет
+  - шрифты
+  - web-safe fonts ( https://www.w3schools.com/cssref/css_websafe_fonts.asp )
+  - class / id / tag
+  - box-model
+
